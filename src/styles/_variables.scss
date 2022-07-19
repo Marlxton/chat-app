@@ -1,11 +1,11 @@
-$color-background: #fff;
+$color-background: linear-gradient(75deg, rgba(60,222,224,1) 0%, rgba(96,241,198,1) 54%, rgba(96,184,241,1) 87%);
 $color-text: #000;
-$color-theme: #ddd;
+$color-theme: rgba(221, 221, 221, 0.819);
 $color-theme-inverted: #000;
 
-$font-family: 'Roboto', sans-serif;
+$font-family: 'Open Sans', sans-serif;
 
 $size-radius-small: 8px;
-$size-radius-large: 100%;
+$size-radius-large: 8px;
 $size-rem: 1.6rem;
 $size-wrapper-margin: 16px;
