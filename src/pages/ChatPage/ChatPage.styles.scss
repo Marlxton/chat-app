@@ -8,12 +8,16 @@
   height: 100vh;
   width: calc(100% - #{2 * $size-wrapper-margin});
   margin: 0 auto;
+  color: red;
+  font-weight: 600;
 
   &__title {
-    @include type($font-size: 2.4rem, $font-weight: 700);
+    @include type($font-size: 2.9rem, $font-weight: 700);
     flex: 0 0 auto;
     margin: 24px 0;
     text-align: center;
+    color: rgb(128, 31, 68);
+    text-shadow: #3ace0d 2px -2px 2px, #23bd2b 4px 4px 0px;
   }
 
   &__message-list {

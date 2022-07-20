@@ -2,11 +2,16 @@
 
 .button {
   display: flex;
-  flex-flow: row nowrap;
+  //flex-flow: row nowrap;
   justify-content: center;
   align-items: center;
   height: 40px;
   background-color: $color-theme;
+}
+
+.button:hover {
+  background-color: yellow;
+  
 }
 
 .button.button--text {
