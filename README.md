@@ -6,6 +6,8 @@ Real-time chat aplication developed as part of Algebra's Frontend developer cour
 
 <img src="images/ScreenShot_app.jpeg" width="500" height="300">
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/69d6a421-6722-4533-a7ae-241c01481717/deploy-status)](https://app.netlify.com/sites/marlxton-chat-app/deploys)
+
 ---
 
 ## Getting started
